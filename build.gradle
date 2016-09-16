@@ -31,7 +31,6 @@ dependencies {
 	runtime('org.postgresql:postgresql:9.4.1208')
 	compile('com.google.guava:guava:19.0')
 	testCompile('junit:junit')
-	//testCompile('com.jayway.jsonpath:json-path')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 	testCompile('com.h2database:h2')
 }
