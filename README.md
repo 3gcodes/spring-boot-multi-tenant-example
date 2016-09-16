@@ -1,0 +1,1 @@
+A simple Spring Boot 1.4 schema based multi-tenant example application
